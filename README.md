@@ -34,6 +34,7 @@ Project was created with:
 * Whoo, the fight has begun!⚔️ Attack or defend, don't forget to approve transactions after each action. I wish you victories in your battles👍.
 
 # Changes
+Added new unique cards that was ganarated by Artificial Intelligence.
 | New cards | | 
 :--------------------------:|:--------------------------:
 ![](client/src/assets/Bloody_Mike.png)  |  ![](client/src/assets/Gear_Samurai.png)
