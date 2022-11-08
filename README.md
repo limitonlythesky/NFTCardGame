@@ -3,7 +3,7 @@
 # Table of contents:
 * [General Info](#general-info)
 * [Stack of Technologies](#technologies)
-* [Instructions for players](#setup)
+* [Instructions for players](#instructions)
 
 # General Info
 This project was made following a tutorial from JavaScript Mastery. 
@@ -22,7 +22,7 @@ Project was created with:
 * Node.js 16.17.0
 * JavaScript 
 
-# Instructions for players
+# Instructions
 * Install the Core Wallet browser extension ([Chrome](https://chrome.google.com/webstore/detail/core/agoakfejjabomempkjlepdflaleeobhb))
 * Create your own wallet
 * Go to the site where we deployed our [game](https://unrivaled-cucurucho-fcd02a.netlify.app)
