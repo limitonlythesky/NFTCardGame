@@ -4,6 +4,7 @@
 * [General Info](#general-info)
 * [Stack of Technologies](#technologies)
 * [Instructions for players](#instructions)
+* [Changes](#changes)
 
 # General Info
 This project was made following a tutorial from JavaScript Mastery. 
@@ -31,3 +32,9 @@ Project was created with:
 * Congratulations🎉! Now you can start. First of all, set your nickname in the game and approve the transaction.
 * Next, you can create a new battle or join an existing one. Also approve the transaction.
 * Whoo, the fight has begun!⚔️ Attack or defend, don't forget to approve transactions after each action. I wish you victories in your battles👍.
+
+# Changes
+| New cards |
+:--------------------------:|:--------------------------:
+![](client/src/assets/Bloody_Mike.png)  |  ![](client/src/assets/Gear_Samurai.png)
+![](client/src/assets/Steel_Oct.png)  |  ![](client/src/assets/Moon_Knight.png)
