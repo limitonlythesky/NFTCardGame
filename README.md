@@ -5,6 +5,7 @@
 * [Stack of Technologies](#technologies)
 * [Instructions for players](#instructions)
 * [Changes](#changes)
+* [Errors](#errors)
 
 # General Info
 This project was made following a tutorial from JavaScript Mastery. 
@@ -34,8 +35,16 @@ Project was created with:
 * Whoo, the fight has begun!⚔️ Attack or defend, don't forget to approve transactions after each action. I wish you victories in your battles👍.
 
 # Changes
-Added new unique cards that was ganarated by Artificial Intelligence.
-| New cards | | 
+Added new unique cards that was ganarated by Artificial Intelligence. You can add your own cards examples, but don't forget to change
+```
+client/styles/index.js
+```
+file.
+| | | 
 :--------------------------:|:--------------------------:
 ![](client/src/assets/Bloody_Mike.png)  |  ![](client/src/assets/Gear_Samurai.png)
 ![](client/src/assets/Steel_Oct.png)  |  ![](client/src/assets/Moon_Knight.png)
+
+# Errors
+Errors that was faced.
+
