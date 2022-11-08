@@ -3,7 +3,7 @@
 # Table of contents:
 * [General Info](#general-info)
 * [Stack of Technologies](#technologies)
-* [Instructions](#instructions)
+* [Instructions for players](#instructions)
 
 # General Info
 This project was made following a tutorial from JavaScript Mastery. 
