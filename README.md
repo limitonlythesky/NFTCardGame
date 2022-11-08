@@ -35,10 +35,7 @@ Project was created with:
 * Whoo, the fight has begun!⚔️ Attack or defend, don't forget to approve transactions after each action. I wish you victories in your battles👍.
 
 # Changes
-Added new unique cards that was ganarated by Artificial Intelligence. You can add your own cards examples, but don't forget to change this file.
-```
-client/styles/index.js
-```
+Added new unique cards that was ganarated by Artificial Intelligence. You can add your own cards examples, but don't forget to change `client/assets/index.js` file.
 
 | | | 
 :--------------------------:|:--------------------------:
@@ -46,7 +43,7 @@ client/styles/index.js
 ![](client/src/assets/Steel_Oct.png)  |  ![](client/src/assets/Moon_Knight.png)
 
 # Errors
-There one error that was faced. The problem was with this part of code:
+There one error that was faced. The problem was with this part of code in `client/context/index.jsx` file
 
 ```
 const updateCurrentWalletAddress = async () => {
