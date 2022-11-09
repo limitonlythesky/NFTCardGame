@@ -1,4 +1,4 @@
-# Multiplayer Web3 NFT Card Game
+# 🃏Multiplayer Web3 NFT Card Game
 
 ## Table of contents:
 * [General Info](#general-info)
